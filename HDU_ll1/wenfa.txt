@@ -1,0 +1,12 @@
+E:=TX
+X:=ATX
+X:=e
+T:=FY
+Y:=MFY
+Y:=e
+F:=(E)
+F:=i
+A:=+
+A:=-
+M:=*
+M:=/

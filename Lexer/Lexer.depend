@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1592043960 source:c:\users\maoqianchen\desktop\lexer\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iterator>
+	<stdio.h>
+	<stdlib.h>
+
